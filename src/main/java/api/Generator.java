@@ -1,4 +1,4 @@
-//v1
+//vbase
 package api;
 
 public interface Generator<T>{

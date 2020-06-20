@@ -1,3 +1,4 @@
+//vbase
 package generators;
 
 public enum Posts {
