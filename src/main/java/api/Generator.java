@@ -1,4 +1,4 @@
-//v1
+//v0
 package api;
 
 public interface Generator<T>{

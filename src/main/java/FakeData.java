@@ -1,6 +1,8 @@
+//v0
 import generators.ColorGenerator;
 import generators.CreditCardGenerator;
 import generators.CurrencyGenerator;
+
 import generators.EmailGenerator;
 
 public class FakeData {
